@@ -46,4 +46,3 @@ NOTES:
 In order for this program to work, the Exchange Server must have the EWS Managed API installed.
 See : http://msdn.microsoft.com/en-us/library/exchange/dd633710%28v=exchg.80%29.aspx
 
-C:\Users\cbeyer\Documents\Visual Studio 2010\Projects\ExchFldrGen\ExchFldrGen\ExchFldrGen\bin\Release>
