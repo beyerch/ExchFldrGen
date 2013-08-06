@@ -431,6 +431,10 @@ namespace ExchangeUtilities
 
             string _evalString = "";
 
+            //Check for values passed and return false if empty command line
+            if (_cmdLine.Count == 0) return false;
+
+
             //Check Version and set default if notpresent
             try
             {
