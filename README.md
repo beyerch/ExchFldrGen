@@ -1,3 +1,4 @@
+<pre>
 Exchange Folder Generator v1.0.0.0
 ----------------------------------------------------------------
 
@@ -46,3 +47,4 @@ NOTES:
 In order for this program to work, the Exchange Server must have the EWS Managed API installed.
 See : http://msdn.microsoft.com/en-us/library/exchange/dd633710%28v=exchg.80%29.aspx
 
+</pre>
